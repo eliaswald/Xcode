@@ -1,0 +1,168 @@
+// !$*UTF8*$!
+{
+	13FDEE2E13985701004ABE97 /* TwoButtons */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TwoButtons;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	13FDEE3813985720004ABE97 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	13FDEE3913985720004ABE97 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	13FDEE4413986077004ABE97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TwoButtonsViewController.h */;
+		name = "TwoButtonsViewController.h: 16";
+		rLen = 0;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 363;
+		vrLoc = 0;
+	};
+	13FDEE4513986077004ABE97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TwoButtonsViewController.m */;
+		name = "TwoButtonsViewController.m: 52";
+		rLen = 0;
+		rLoc = 1316;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 591;
+	};
+	13FDEE4613986077004ABE97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TwoButtonsAppDelegate.h */;
+		name = "TwoButtonsAppDelegate.h: 13";
+		rLen = 21;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 493;
+		vrLoc = 0;
+	};
+	13FDEE4713986077004ABE97 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TwoButtonsAppDelegate.m */;
+	};
+	13FDEE4813986077004ABE97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TwoButtonsAppDelegate.m */;
+		name = "TwoButtonsAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 656;
+		rType = 0;
+		vrLen = 1486;
+		vrLoc = 1175;
+	};
+	1D3623240D0F684500981E51 /* TwoButtonsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1370, 661}}";
+			sepNavSelRange = "{252, 21}";
+			sepNavVisRange = "{0, 493}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TwoButtonsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1131}}";
+			sepNavSelRange = "{656, 0}";
+			sepNavVisRange = "{1175, 1486}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TwoButtons */ = {
+		activeExec = 0;
+		executables = (
+			13FDEE2E13985701004ABE97 /* TwoButtons */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TwoButtonsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1370, 661}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{0, 363}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TwoButtonsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1370, 988}}";
+			sepNavSelRange = "{1316, 0}";
+			sepNavVisRange = "{591, 1175}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 13FDEE2E13985701004ABE97 /* TwoButtons */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TwoButtons */;
+		codeSenseManager = 13FDEE3913985720004ABE97 /* Code sense */;
+		executables = (
+			13FDEE2E13985701004ABE97 /* TwoButtons */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1192,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328750849;
+			PBXWorkspaceStateSaveDate = 328750849;
+		};
+		perUserProjectItems = {
+			13FDEE4413986077004ABE97 /* PBXTextBookmark */ = 13FDEE4413986077004ABE97 /* PBXTextBookmark */;
+			13FDEE4513986077004ABE97 /* PBXTextBookmark */ = 13FDEE4513986077004ABE97 /* PBXTextBookmark */;
+			13FDEE4613986077004ABE97 /* PBXTextBookmark */ = 13FDEE4613986077004ABE97 /* PBXTextBookmark */;
+			13FDEE4713986077004ABE97 /* PBXBookmark */ = 13FDEE4713986077004ABE97 /* PBXBookmark */;
+			13FDEE4813986077004ABE97 /* PBXTextBookmark */ = 13FDEE4813986077004ABE97 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 13FDEE3813985720004ABE97 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'TwoButtons' target in the 'TwoButtons' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

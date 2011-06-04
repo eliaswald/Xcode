@@ -1,0 +1,318 @@
+TMultiviewTest
+v7
+r0
+t328836767.270346
+cCheck dependencies
+cProcessInfoPlistFile /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/Info.plist MultiviewTest-Info.plist
+cCompileXIB /Users/eliaswald/Documents/Xcode/MultiviewTest/MainWindow.xib
+cCompileXIB /Users/eliaswald/Documents/Xcode/MultiviewTest/BlueView.xib
+cCompileXIB /Users/eliaswald/Documents/Xcode/MultiviewTest/YellowView.xib
+cProcessPCH /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch.gch MultiviewTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/main.o /Users/eliaswald/Documents/Xcode/MultiviewTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/MultiviewTestAppDelegate.o /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/MultiviewTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/SwitchViewController.o /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/BlueViewController.o /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/BlueViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/YellowViewController.o /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/BlueView.xib
+c000000004DE96DCF00000000000048B7
+t1307143631
+s18615
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/BlueViewController.h
+c000000004DE96C040000000000000115
+t1307143172
+s277
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/BlueViewController.m
+c000000004DE96EBC000000000000073D
+t1307143868
+s1853
+i"BlueViewController.h"
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/MultiviewTestAppDelegate.h
+c000000004DE964D80000000000000205
+t1307141336
+s517
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/MultiviewTestAppDelegate.m
+c000000004DE965270000000000000A63
+t1307141415
+s2659
+i"MultiviewTestAppDelegate.h"
+i"SwitchViewController.h"
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/SwitchViewController.h
+c000000004DE967E70000000000000232
+t1307142119
+s562
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/SwitchViewController.m
+c000000004DE969230000000000000994
+t1307142435
+s2452
+i"SwitchViewController.h"
+i"BlueViewController.h"
+i"YellowViewController.h"
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.h
+c000000004DE96C22000000000000011B
+t1307143202
+s283
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m
+c000000004DE96F050000000000000748
+t1307143941
+s1864
+i"YellowViewController.h"
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/MainWindow.xib
+c000000004DE967B800000000000062FF
+t1307142072
+s25343
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/MultiviewTest_Prefix.pch
+c000000004DE9636300000000000000C3
+t1307140963
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/YellowView.xib
+c000000004DE96E6000000000000048CA
+t1307143776
+s18634
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app
+t2
+s0
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app.dSYM
+t2
+s0
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/BlueView.nib
+t1307143966
+s1467
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/Info.plist
+t1307143965
+s615
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/MainWindow.nib
+t1307143966
+s1489
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/MultiviewTest
+t2
+s0
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/PkgInfo
+t1307143965
+s8
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/YellowView.nib
+t1307143966
+s1473
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/BlueViewController.o
+t1307143967
+s44620
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/MultiviewTest.LinkFileList
+c000000004DE96F1D0000000000000308
+t1307143965
+s776
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/MultiviewTestAppDelegate.o
+t1307143967
+s51428
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/SwitchViewController.o
+t1307143967
+s44504
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/YellowViewController.o
+t2
+s0
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/main.o
+t1307143967
+s6320
+
+N/Users/eliaswald/Documents/Xcode/MultiviewTest/main.m
+c000000004DE96363000000000000016B
+t1307140963
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch.gch
+t1307143967
+s15453392
+
+NMultiviewTest-Info.plist
+c000000004DE96363000000000000038D
+t1307140963
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328836765#328836765#0(0"0(0#1#0"8617932992#0"0#
+
+CCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/BlueViewController.o /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/BlueViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328836767.130001
+e328836767.230132
+r1
+xCompileC
+xbuild/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/BlueViewController.o
+x/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/BlueViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/BlueViewController.m328836767#328836767#0(0"0(0#0#75"/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/BlueViewController.m8608729664#2158"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/BlueViewController.m -o /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/BlueViewController.o0#
+
+CCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/MultiviewTestAppDelegate.o /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/MultiviewTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328836767.127766
+e328836767.230717
+r1
+xCompileC
+xbuild/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/MultiviewTestAppDelegate.o
+x/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/MultiviewTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/MultiviewTestAppDelegate.m328836767#328836767#0(0"0(0#0#81"/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/MultiviewTestAppDelegate.m8614503072#2170"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/MultiviewTestAppDelegate.m -o /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/MultiviewTestAppDelegate.o0#
+
+CCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/SwitchViewController.o /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/SwitchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328836767.128856
+e328836767.237357
+r1
+xCompileC
+xbuild/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/SwitchViewController.o
+x/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/SwitchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/SwitchViewController.m328836767#328836767#0(0"0(0#0#77"/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/SwitchViewController.m8613208800#2162"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/SwitchViewController.m -o /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/SwitchViewController.o0#
+
+CCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/YellowViewController.o /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328836767.200708
+e328836767.270246
+r0
+xCompileC
+xbuild/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/YellowViewController.o
+x/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m: In function '-[YellowViewController yellowButtonPressed:]':
+o/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m:50: error: expected ']' before 'release'
+o/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m:50: error: array subscript is not an integer
+lSLF07#2@85"Compile /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m328836767#328836767#0(381"/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m: In function '-[YellowViewController yellowButtonPressed:]':/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m:50: error: expected ']' before 'release'/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m:50: error: array subscript is not an integer2(4@29"Expected ']' before 'release'328836767#139#119#0(6@77"/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m328836741#50#0#50#0#19"expected * before *0(4@33"Array subscript is not an integer328836767#258#123#0(6@77"/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m328836741#50#0#50#0#0"0(0#0#77"/Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m8606783904#2162"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/MultiviewTest/Classes/YellowViewController.m -o /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/YellowViewController.o1#
+
+CCompileC build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/main.o /Users/eliaswald/Documents/Xcode/MultiviewTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328836767.126707
+e328836767.200553
+r1
+xCompileC
+xbuild/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/main.o
+x/Users/eliaswald/Documents/Xcode/MultiviewTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/eliaswald/Documents/Xcode/MultiviewTest/main.m328836767#328836767#0(0"0(0#0#53"/Users/eliaswald/Documents/Xcode/MultiviewTest/main.m8615582656#2122"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/MultiviewTest/main.m -o /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/MultiviewTest/BlueView.xib
+s328836765.928963
+e328836766.399755
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/MultiviewTest/BlueView.xib
+lSLF07#2@23"CompileXIB BlueView.xib328836765#328836766#0(0"0(0#0#59"/Users/eliaswald/Documents/Xcode/MultiviewTest/BlueView.xib8616190656#596"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/BlueView.nib /Users/eliaswald/Documents/Xcode/MultiviewTest/BlueView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/MultiviewTest/MainWindow.xib
+s328836765.928059
+e328836766.397454
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/MultiviewTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328836765#328836766#0(0"0(0#0#61"/Users/eliaswald/Documents/Xcode/MultiviewTest/MainWindow.xib8616316416#600"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/MainWindow.nib /Users/eliaswald/Documents/Xcode/MultiviewTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/MultiviewTest/YellowView.xib
+s328836765.929736
+e328836766.396792
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/MultiviewTest/YellowView.xib
+lSLF07#2@25"CompileXIB YellowView.xib328836765#328836766#0(0"0(0#0#61"/Users/eliaswald/Documents/Xcode/MultiviewTest/YellowView.xib8616015456#600"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/YellowView.nib /Users/eliaswald/Documents/Xcode/MultiviewTest/YellowView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app.dSYM /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/MultiviewTest
+r0
+
+CLd /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/MultiviewTest normal i386
+r0
+
+CProcessInfoPlistFile /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/Info.plist MultiviewTest-Info.plist
+s328836765.924297
+e328836765.927942
+r1
+xProcessInfoPlistFile
+x/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/Info.plist
+xMultiviewTest-Info.plist
+lSLF07#2@32"Process MultiviewTest-Info.plist328836765#328836765#0(0"0(0#0#71"/Users/eliaswald/Documents/Xcode/MultiviewTest/MultiviewTest-Info.plist8616786432#521"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MultiviewTest-Info.plist -genpkginfo /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app/Info.plist0#
+
+CProcessPCH /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch.gch MultiviewTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328836766.399898
+e328836767.126569
+r1
+xProcessPCH
+x/var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch.gch
+xMultiviewTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile MultiviewTest_Prefix.pch328836766#328836767#0(0"0(0#0#71"/Users/eliaswald/Documents/Xcode/MultiviewTest/MultiviewTest_Prefix.pch8617139648#2000"    cd /Users/eliaswald/Documents/Xcode/MultiviewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/MultiviewTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/MultiviewTest/build/MultiviewTest.build/Debug-iphonesimulator/MultiviewTest.build/DerivedSources -c /Users/eliaswald/Documents/Xcode/MultiviewTest/MultiviewTest_Prefix.pch -o /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MultiviewTest_Prefix-drpuvzlvcsratnbmrzuzuppxnxlg/MultiviewTest_Prefix.pch.gch0#
+
+CTouch /Users/eliaswald/Documents/Xcode/MultiviewTest/build/Debug-iphonesimulator/MultiviewTest.app
+r0
+

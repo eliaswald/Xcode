@@ -1,0 +1,256 @@
+TTwoButtons
+v7
+r0
+t328753064.112674
+cCheck dependencies
+cProcessInfoPlistFile /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/Info.plist TwoButtons-Info.plist
+cCompileXIB /Users/eliaswald/Documents/Xcode/TwoButtons/MainWindow.xib
+cCompileXIB /Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtonsViewController.xib
+cProcessPCH /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TwoButtons_Prefix-aoydcwqgqmuymbgqtlalnmqyqusd/TwoButtons_Prefix.pch.gch TwoButtons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/main.o /Users/eliaswald/Documents/Xcode/TwoButtons/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsAppDelegate.o /Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsViewController.o /Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons normal i386
+cGenerateDSYMFile /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app.dSYM /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons
+cTouch /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsAppDelegate.h
+c000000004DE81F8100000000000001ED
+t1307058049
+s493
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsAppDelegate.m
+c000000004DE825170000000000000A65
+t1307059479
+s2661
+i"TwoButtonsAppDelegate.h"
+i"TwoButtonsViewController.h"
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsViewController.h
+c000000004DE8235B000000000000016B
+t1307059035
+s363
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsViewController.m
+c000000004DE8234D00000000000006E6
+t1307059021
+s1766
+i"TwoButtonsViewController.h"
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/MainWindow.xib
+c000000004DE81F810000000000004E4D
+t1307058049
+s20045
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtonsViewController.xib
+c000000004DE82826000000000000595B
+t1307060262
+s22875
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtons_Prefix.pch
+c000000004DE81F8100000000000000BD
+t1307058049
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app
+t1307060264
+s238
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app.dSYM
+t1307060264
+s102
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/Info.plist
+t1307058993
+s603
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/MainWindow.nib
+t1307058993
+s1129
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/PkgInfo
+t1307058993
+s8
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons
+t1307060264
+s17924
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtonsViewController.nib
+t1307060263
+s2088
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtons.LinkFileList
+c000000004DE8233100000000000001B4
+t1307058993
+s436
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsAppDelegate.o
+t1307060264
+s51048
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsViewController.o
+t1307059035
+s41036
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/main.o
+t1307058994
+s6312
+
+N/Users/eliaswald/Documents/Xcode/TwoButtons/main.m
+c000000004DE81F810000000000000168
+t1307058049
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TwoButtons_Prefix-aoydcwqgqmuymbgqtlalnmqyqusd/TwoButtons_Prefix.pch.gch
+t1307058994
+s15453392
+
+NTwoButtons-Info.plist
+c000000004DE81F81000000000000038D
+t1307058049
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328753063#328753063#0(0"0(0#1#0"8631073152#0"0#
+
+CCompileC build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsAppDelegate.o /Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328753063.969862
+e328753064.073344
+r1
+xCompileC
+xbuild/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsAppDelegate.o
+x/Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsAppDelegate.m328753063#328753064#0(0"0(0#0#75"/Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsAppDelegate.m8614445472#2071"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TwoButtons_Prefix-aoydcwqgqmuymbgqtlalnmqyqusd/TwoButtons_Prefix.pch -c /Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsAppDelegate.m -o /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsAppDelegate.o0#
+
+CCompileC build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsViewController.o /Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328751835.740283
+e328751835.811113
+r1
+xCompileC
+xbuild/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsViewController.o
+x/Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsViewController.m328751835#328751835#0(0"0(0#0#78"/Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsViewController.m8614726912#2077"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TwoButtons_Prefix-aoydcwqgqmuymbgqtlalnmqyqusd/TwoButtons_Prefix.pch -c /Users/eliaswald/Documents/Xcode/TwoButtons/Classes/TwoButtonsViewController.m -o /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtonsViewController.o0#
+
+CCompileC build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/main.o /Users/eliaswald/Documents/Xcode/TwoButtons/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328751794.410366
+e328751794.479378
+r1
+xCompileC
+xbuild/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/main.o
+x/Users/eliaswald/Documents/Xcode/TwoButtons/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/eliaswald/Documents/Xcode/TwoButtons/main.m328751794#328751794#0(0"0(0#0#50"/Users/eliaswald/Documents/Xcode/TwoButtons/main.m8632067072#2029"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TwoButtons_Prefix-aoydcwqgqmuymbgqtlalnmqyqusd/TwoButtons_Prefix.pch -c /Users/eliaswald/Documents/Xcode/TwoButtons/main.m -o /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/TwoButtons/MainWindow.xib
+s328751793.327228
+e328751793.703242
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/TwoButtons/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328751793#328751793#0(0"0(0#0#58"/Users/eliaswald/Documents/Xcode/TwoButtons/MainWindow.xib8631455232#588"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/MainWindow.nib /Users/eliaswald/Documents/Xcode/TwoButtons/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtonsViewController.xib
+s328753063.583374
+e328753063.969461
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtonsViewController.xib
+lSLF07#2@39"CompileXIB TwoButtonsViewController.xib328753063#328753063#0(0"0(0#0#72"/Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtonsViewController.xib8622038656#616"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtonsViewController.nib /Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtonsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app.dSYM /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons
+s328753064.094357
+e328753064.110025
+r1
+xGenerateDSYMFile
+x/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app.dSYM
+x/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/TwoButtons.app.dSYM build/Debug-iphonesimulator/TwoButtons.app/TwoButtons328753064#328753064#0(0"0(0#0#97"/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons8629471552#407"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons -o /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app.dSYM0#
+
+CLd /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons normal i386
+s328753064.073436
+e328753064.094250
+r1
+xLd
+x/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons
+xnormal
+xi386
+lSLF07#2@102"Link /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons328753064#328753064#0(0"0(0#0#0"8631733696#940"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator -F/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator -filelist /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/Objects-normal/i386/TwoButtons.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/TwoButtons0#
+
+CProcessInfoPlistFile /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/Info.plist TwoButtons-Info.plist
+s328751793.321832
+e328751793.327083
+r1
+xProcessInfoPlistFile
+x/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/Info.plist
+xTwoButtons-Info.plist
+lSLF07#2@29"Process TwoButtons-Info.plist328751793#328751793#0(0"0(0#0#65"/Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtons-Info.plist8614719424#503"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TwoButtons-Info.plist -genpkginfo /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app/Info.plist0#
+
+CProcessPCH /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TwoButtons_Prefix-aoydcwqgqmuymbgqtlalnmqyqusd/TwoButtons_Prefix.pch.gch TwoButtons_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328751793.703369
+e328751794.410230
+r1
+xProcessPCH
+x/var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TwoButtons_Prefix-aoydcwqgqmuymbgqtlalnmqyqusd/TwoButtons_Prefix.pch.gch
+xTwoButtons_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile TwoButtons_Prefix.pch328751793#328751794#0(0"0(0#0#65"/Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtons_Prefix.pch8641840512#1913"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/TwoButtons-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/TwoButtons/build/TwoButtons.build/Debug-iphonesimulator/TwoButtons.build/DerivedSources -c /Users/eliaswald/Documents/Xcode/TwoButtons/TwoButtons_Prefix.pch -o /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TwoButtons_Prefix-aoydcwqgqmuymbgqtlalnmqyqusd/TwoButtons_Prefix.pch.gch0#
+
+CTouch /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app
+s328753064.110155
+e328753064.112639
+r1
+xTouch
+x/Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app
+lSLF07#2@92"Touch /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app328753064#328753064#0(0"0(0#0#0"8627632768#291"    cd /Users/eliaswald/Documents/Xcode/TwoButtons    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/eliaswald/Documents/Xcode/TwoButtons/build/Debug-iphonesimulator/TwoButtons.app0#
+

@@ -1,0 +1,709 @@
+TFwixTest
+v7
+r0
+t328750472.772656
+cCheck dependencies
+cProcessInfoPlistFile /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/Info.plist FwixTest-Info.plist
+cCompileXIB /Users/eliaswald/Documents/Xcode/FwixTest/MainWindow.xib
+cCompileXIB /Users/eliaswald/Documents/Xcode/FwixTest/FwixTestViewController.xib
+cCompileXIB /Users/eliaswald/Documents/Xcode/FwixTest/TextFieldAndButtonView.xib
+cCpResource build/Debug-iphonesimulator/FwixTest.app/Fwix.png Fwix.png
+cProcessPCH /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch.gch FwixTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/main.o /Users/eliaswald/Documents/Xcode/FwixTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestAppDelegate.o /Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestViewController.o /Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fAPI.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fAPI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fCategory.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fCategory.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fContent.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fContent.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fLocation.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fLocation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fPlace.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fPlace.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fRange.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fRange.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSObject+SBJSON.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSString+SBJSON.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJSON.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonBase.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonParser.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonWriter.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest normal i386
+cGenerateDSYMFile /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app.dSYM /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest
+cTouch /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/eliaswald/Desktop/iOS_API_code/JSON.h
+c000000004DC0945E00000000000008F9
+t1304466526
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/eliaswald/Desktop/iOS_API_code/NSObject+SBJSON.h
+c000000004DC0945E0000000000000A01
+t1304466526
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/eliaswald/Desktop/iOS_API_code/NSString+SBJSON.h
+c000000004DC0945E0000000000000916
+t1304466526
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/eliaswald/Desktop/iOS_API_code/SBJSON.h
+c000000004DC0945E0000000000000AED
+t1304466526
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/eliaswald/Desktop/iOS_API_code/SBJsonBase.h
+c000000004DC0945E0000000000000B82
+t1304466526
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/eliaswald/Desktop/iOS_API_code/SBJsonParser.h
+c000000004DC0945E0000000000000C0B
+t1304466526
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/eliaswald/Desktop/iOS_API_code/SBJsonWriter.h
+c000000004DC0945E0000000000001140
+t1304466526
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/eliaswald/Desktop/iOS_API_code/fAPI.h
+c000000004DACCF330000000000001F5A
+t1303170867
+s8026
+i<Foundation/Foundation.h>
+i"fLocation.h"
+i"fCategory.h"
+i"fPlace.h"
+i"fContent.h"
+i"JSON.h"
+
+N/Users/eliaswald/Desktop/iOS_API_code/fCategory.h
+c000000004DA8B00D0000000000000572
+t1302900749
+s1394
+i<Foundation/Foundation.h>
+
+N/Users/eliaswald/Desktop/iOS_API_code/fContent.h
+c000000004DAC8AE90000000000000C3B
+t1303153385
+s3131
+i<Foundation/Foundation.h>
+
+N/Users/eliaswald/Desktop/iOS_API_code/fLocation.h
+c000000004DA87C020000000000000687
+t1302887426
+s1671
+i<Foundation/Foundation.h>
+
+N/Users/eliaswald/Desktop/iOS_API_code/fPlace.h
+c000000004DA8B00D00000000000007A9
+t1302900749
+s1961
+i<Foundation/Foundation.h>
+i"fLocation.h"
+i"fCategory.h"
+
+N/Users/eliaswald/Desktop/iOS_API_code/fRange.h
+c000000004DA8B00C000000000000055F
+t1302900748
+s1375
+i<Foundation/Foundation.h>
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSObject+SBJSON.m
+c000000004DC0945E00000000000008B9
+t1304466526
+s2233
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSString+SBJSON.m
+c000000004DC0945E000000000000089F
+t1304466526
+s2207
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJSON.m
+c000000004DC0945E0000000000001ABC
+t1304466526
+s6844
+i"SBJSON.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonBase.m
+c000000004DC0945E0000000000000AC1
+t1304466526
+s2753
+i"SBJsonBase.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonParser.m
+c000000004DC0945E00000000000036CF
+t1304466526
+s14031
+i"SBJsonParser.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonWriter.m
+c000000004DC0945E0000000000001E83
+t1304466526
+s7811
+i"SBJsonWriter.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fAPI.h
+c000000004DACCF330000000000001F5A
+t1303170867
+s8026
+i<Foundation/Foundation.h>
+i"fLocation.h"
+i"fCategory.h"
+i"fPlace.h"
+i"fContent.h"
+i"JSON.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fAPI.m
+c000000004DACD2F3000000000000734B
+t1303171827
+s29515
+i"fAPI.h"
+i"JSON.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fCategory.m
+c000000004DA87C1D00000000000004FC
+t1302887453
+s1276
+i"fCategory.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fContent.m
+c000000004DA886B40000000000000757
+t1302890164
+s1879
+i"fContent.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fLocation.m
+c000000004DA87C050000000000000539
+t1302887429
+s1337
+i"fLocation.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fPlace.m
+c000000004DA886BB0000000000000663
+t1302890171
+s1635
+i"fPlace.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fRange.m
+c000000004DA87C0F00000000000004E2
+t1302887439
+s1250
+i"fRange.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/mzl.afstwmpb.png
+c000000004DE81CA90000000000003150
+t1307057321
+s12624
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestAppDelegate.h
+c000000004DE6CDB200000000000001E1
+t1306971570
+s481
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestAppDelegate.m
+c000000004DE6D2570000000000000A78
+t1306972759
+s2680
+i"FwixTestAppDelegate.h"
+i"FwixTestViewController.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestViewController.h
+c000000004DE815080000000000000354
+t1307055368
+s852
+i<UIKit/UIKit.h>
+i"fAPI.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestViewController.m
+c000000004DE8173C0000000000000AD5
+t1307055932
+s2773
+i"FwixTestViewController.h"
+i"JSON.h"
+i"fAPI.h"
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/Fwix.png
+c000000004DE81DA70000000000000DB8
+t1307057575
+s3512
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/FwixTestViewController.xib
+c000000004DE815720000000000007F2B
+t1307055474
+s32555
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/FwixTest_Prefix.pch
+c000000004DE6CDB200000000000000B9
+t1306971570
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/MainWindow.xib
+c000000004DE6CDB20000000000004E35
+t1306971570
+s20021
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/TextFieldAndButtonView.xib
+c000000004DE7ED260000000000004851
+t1307045158
+s18513
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app
+t1307057672
+s306
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app.dSYM
+t1307057672
+s102
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/Fwix.png
+t1307057672
+s3512
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest
+t1307057672
+s113456
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTestViewController.nib
+t1307055476
+s2860
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/Info.plist
+t1307057672
+s629
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/MainWindow.nib
+t1306972571
+s1125
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/PkgInfo
+t1307057672
+s8
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/TextFieldAndButtonView.nib
+t1307054965
+s1727
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/mzl.afstwmpb.png
+t2
+s0
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTest.LinkFileList
+c000000004DE6D3B300000000000007D2
+t1306973107
+s2002
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestAppDelegate.o
+t1307055477
+s53492
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestViewController.o
+t1307057672
+s55220
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSObject+SBJSON.o
+t1306973108
+s8568
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSString+SBJSON.o
+t1306973108
+s8488
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJSON.o
+t1306973108
+s20128
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonBase.o
+t1306973108
+s13260
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonParser.o
+t1306973108
+s35948
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonWriter.o
+t1306973108
+s24904
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fAPI.o
+t1306973108
+s66560
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fCategory.o
+t1306973107
+s8864
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fContent.o
+t1306973108
+s28840
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fLocation.o
+t1306973108
+s12200
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fPlace.o
+t1306973108
+s18208
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fRange.o
+t1306973108
+s8012
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/main.o
+t1306972572
+s6308
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/main.m
+c000000004DE6CDB20000000000000166
+t1306971570
+s358
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/FwixTest/mzl.afstwmpb.png
+c000000004DE81CA90000000000003150
+t1307057321
+s12624
+
+N/var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch.gch
+t1306972572
+s15453392
+
+NFwixTest-Info.plist
+c000000004DE81E920000000000000375
+t1307057810
+s885
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328750472#328750472#0(0"0(0#1#0"8626902272#0"0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestAppDelegate.o /Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328748276.927392
+e328748277.009171
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestAppDelegate.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestAppDelegate.m328748276#328748277#0(0"0(0#0#71"/Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestAppDelegate.m8630281344#2005"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestAppDelegate.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestAppDelegate.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestViewController.o /Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328750472.568259
+e328750472.716930
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestViewController.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestViewController.m328750472#328750472#0(0"0(0#0#74"/Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestViewController.m8614569312#2011"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/Classes/FwixTestViewController.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTestViewController.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSObject+SBJSON.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665908.044491
+e328665908.130218
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSObject+SBJSON.m328665908#328665908#0(0"0(0#0#89"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSObject+SBJSON.m8615829952#2019"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSObject+SBJSON.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSString+SBJSON.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665908.092006
+e328665908.173036
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSString+SBJSON.m328665908#328665908#0(0"0(0#0#89"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSString+SBJSON.m8611022816#2019"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/NSString+SBJSON.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJSON.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665908.099459
+e328665908.242094
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJSON.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJSON.m328665908#328665908#0(0"0(0#0#80"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJSON.m8603638624#2001"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJSON.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonBase.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665908.130364
+e328665908.223016
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonBase.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonBase.m328665908#328665908#0(0"0(0#0#84"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonBase.m8603374720#2009"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonBase.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonParser.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665908.151312
+e328665908.292795
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonParser.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonParser.m328665908#328665908#0(0"0(0#0#86"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonParser.m8618844992#2013"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonParser.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonWriter.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665908.173189
+e328665908.287646
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonWriter.m328665908#328665908#0(0"0(0#0#86"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonWriter.m8612514336#2013"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/SBJsonWriter.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fAPI.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fAPI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665907.881682
+e328665908.151153
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fAPI.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fAPI.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fAPI.m328665907#328665908#0(0"0(0#0#78"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fAPI.m8622360992#1997"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fAPI.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fAPI.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fCategory.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fCategory.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665907.882700
+e328665907.954142
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fCategory.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fCategory.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fCategory.m328665907#328665908#0(0"0(0#0#83"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fCategory.m8621142144#2007"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fCategory.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fCategory.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fContent.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fContent.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665907.886243
+e328665908.020234
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fContent.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fContent.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fContent.m328665907#328665908#0(0"0(0#0#82"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fContent.m8611505664#2005"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fContent.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fContent.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fLocation.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fLocation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665907.954671
+e328665908.044344
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fLocation.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fLocation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fLocation.m328665907#328665908#0(0"0(0#0#83"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fLocation.m8612698464#2007"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fLocation.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fLocation.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fPlace.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fPlace.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665907.956069
+e328665908.099323
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fPlace.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fPlace.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fPlace.m328665907#328665908#0(0"0(0#0#80"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fPlace.m8611664992#2001"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fPlace.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fPlace.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fRange.o /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fRange.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665908.020380
+e328665908.091855
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fRange.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fRange.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fRange.m328665908#328665908#0(0"0(0#0#80"/Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fRange.m8622023776#2001"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/../../../Desktop/iOS_API_code/fRange.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/fRange.o0#
+
+CCompileC build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/main.o /Users/eliaswald/Documents/Xcode/FwixTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665372.061113
+e328665372.127372
+r1
+xCompileC
+xbuild/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/main.o
+x/Users/eliaswald/Documents/Xcode/FwixTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/eliaswald/Documents/Xcode/FwixTest/main.m328665372#328665372#0(0"0(0#0#48"/Users/eliaswald/Documents/Xcode/FwixTest/main.m8614298784#1967"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch -c /Users/eliaswald/Documents/Xcode/FwixTest/main.m -o /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/FwixTest/FwixTestViewController.xib
+s328748276.482235
+e328748276.927085
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/FwixTest/FwixTestViewController.xib
+lSLF07#2@37"CompileXIB FwixTestViewController.xib328748276#328748276#0(0"0(0#0#68"/Users/eliaswald/Documents/Xcode/FwixTest/FwixTestViewController.xib8632654112#604"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTestViewController.nib /Users/eliaswald/Documents/Xcode/FwixTest/FwixTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/FwixTest/MainWindow.xib
+s328665370.865297
+e328665371.266287
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/FwixTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328665370#328665371#0(0"0(0#0#56"/Users/eliaswald/Documents/Xcode/FwixTest/MainWindow.xib8616999136#580"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/MainWindow.nib /Users/eliaswald/Documents/Xcode/FwixTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/FwixTest/TextFieldAndButtonView.xib
+s328747764.986319
+e328747765.541080
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/FwixTest/TextFieldAndButtonView.xib
+lSLF07#2@37"CompileXIB TextFieldAndButtonView.xib328747764#328747765#0(0"0(0#0#68"/Users/eliaswald/Documents/Xcode/FwixTest/TextFieldAndButtonView.xib8627404704#604"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/TextFieldAndButtonView.nib /Users/eliaswald/Documents/Xcode/FwixTest/TextFieldAndButtonView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/FwixTest.app/Fwix.png Fwix.png
+s328750472.541015
+e328750472.567787
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FwixTest.app/Fwix.png
+xFwix.png
+lSLF07#2@13"Copy Fwix.png328750472#328750472#0(0"0(0#0#50"/Users/eliaswald/Documents/Xcode/FwixTest/Fwix.png8624814976#476"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/eliaswald/Documents/Xcode/FwixTest/Fwix.png /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app0#
+
+CCpResource build/Debug-iphonesimulator/FwixTest.app/mzl.afstwmpb.png ../../../Desktop/mzl.afstwmpb.png
+r0
+
+CCpResource build/Debug-iphonesimulator/FwixTest.app/mzl.afstwmpb.png mzl.afstwmpb.png
+r0
+
+CGenerateDSYMFile /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app.dSYM /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest
+s328750472.749031
+e328750472.769591
+r1
+xGenerateDSYMFile
+x/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app.dSYM
+x/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/FwixTest.app.dSYM build/Debug-iphonesimulator/FwixTest.app/FwixTest328750472#328750472#0(0"0(0#0#91"/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest8625479808#395"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest -o /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app.dSYM0#
+
+CLd /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest normal i386
+s328750472.717065
+e328750472.748932
+r1
+xLd
+x/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest
+xnormal
+xi386
+lSLF07#2@96"Link /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest328750472#328750472#0(0"0(0#0#0"8627887712#920"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -filelist /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/Objects-normal/i386/FwixTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/FwixTest0#
+
+CProcessInfoPlistFile /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/Info.plist FwixTest-Info.plist
+s328750472.535749
+e328750472.540769
+r1
+xProcessInfoPlistFile
+x/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/Info.plist
+xFwixTest-Info.plist
+lSLF07#2@27"Process FwixTest-Info.plist328750472#328750472#0(0"0(0#0#61"/Users/eliaswald/Documents/Xcode/FwixTest/FwixTest-Info.plist8601516576#491"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FwixTest-Info.plist -genpkginfo /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app/Info.plist0#
+
+CProcessPCH /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch.gch FwixTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328665371.333357
+e328665372.060976
+r1
+xProcessPCH
+x/var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch.gch
+xFwixTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile FwixTest_Prefix.pch328665371#328665372#0(0"0(0#0#61"/Users/eliaswald/Documents/Xcode/FwixTest/FwixTest_Prefix.pch8620807488#1855"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/FwixTest-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/FwixTest/build/FwixTest.build/Debug-iphonesimulator/FwixTest.build/DerivedSources -c /Users/eliaswald/Documents/Xcode/FwixTest/FwixTest_Prefix.pch -o /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/FwixTest_Prefix-gdwdyaeevsnsfuhfwegbjlfurmqg/FwixTest_Prefix.pch.gch0#
+
+CTouch /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app
+s328750472.769904
+e328750472.772603
+r1
+xTouch
+x/Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app
+lSLF07#2@88"Touch /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app328750472#328750472#0(0"0(0#0#0"8624974240#285"    cd /Users/eliaswald/Documents/Xcode/FwixTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/eliaswald/Documents/Xcode/FwixTest/build/Debug-iphonesimulator/FwixTest.app0#
+

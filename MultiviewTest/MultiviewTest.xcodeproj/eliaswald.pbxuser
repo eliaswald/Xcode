@@ -1,0 +1,104 @@
+// !$*UTF8*$!
+{
+	137BD60913999AE3005C2608 /* MultiviewTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MultiviewTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	137BD60D13999B01005C2608 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	137BD60E13999B01005C2608 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	137BD61013999BB0005C2608 /* SwitchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1370, 661}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	137BD61513999BC9005C2608 /* BlueViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1370, 661}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	137BD61813999BD1005C2608 /* YellowViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1370, 661}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	1D3623240D0F684500981E51 /* MultiviewTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1370, 661}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 341}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MultiviewTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 949}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1737}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MultiviewTest */ = {
+		activeExec = 0;
+		executables = (
+			137BD60913999AE3005C2608 /* MultiviewTest */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 137BD60913999AE3005C2608 /* MultiviewTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MultiviewTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MultiviewTest */,
+		);
+		codeSenseManager = 137BD60E13999B01005C2608 /* Code sense */;
+		executables = (
+			137BD60913999AE3005C2608 /* MultiviewTest */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 328833763;
+			PBXWorkspaceStateSaveDate = 328833763;
+		};
+		sourceControlManager = 137BD60D13999B01005C2608 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

@@ -1,0 +1,342 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		130DADC413970A510072DC60 /* fAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADAB13970A510072DC60 /* fAPI.m */; };
+		130DADC513970A510072DC60 /* fCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADAE13970A510072DC60 /* fCategory.m */; };
+		130DADC613970A510072DC60 /* fContent.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADB013970A510072DC60 /* fContent.m */; };
+		130DADC713970A510072DC60 /* fLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADB213970A510072DC60 /* fLocation.m */; };
+		130DADC813970A510072DC60 /* fPlace.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADB413970A510072DC60 /* fPlace.m */; };
+		130DADC913970A510072DC60 /* fRange.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADB613970A510072DC60 /* fRange.m */; };
+		130DADCA13970A510072DC60 /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADB913970A510072DC60 /* NSObject+SBJSON.m */; };
+		130DADCB13970A510072DC60 /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADBB13970A510072DC60 /* NSString+SBJSON.m */; };
+		130DADCC13970A510072DC60 /* SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADBD13970A510072DC60 /* SBJSON.m */; };
+		130DADCD13970A510072DC60 /* SBJsonBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADBF13970A510072DC60 /* SBJsonBase.m */; };
+		130DADCE13970A510072DC60 /* SBJsonParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADC113970A510072DC60 /* SBJsonParser.m */; };
+		130DADCF13970A510072DC60 /* SBJsonWriter.m in Sources */ = {isa = PBXBuildFile; fileRef = 130DADC313970A510072DC60 /* SBJsonWriter.m */; };
+		13FDEDD813981883004ABE97 /* TextFieldAndButtonView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13FDEDD713981883004ABE97 /* TextFieldAndButtonView.xib */; };
+		13FDEE281398553B004ABE97 /* Fwix.png in Resources */ = {isa = PBXBuildFile; fileRef = 13FDEE271398553B004ABE97 /* Fwix.png */; };
+		1D3623260D0F684500981E51 /* FwixTestAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* FwixTestAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* FwixTestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* FwixTestViewController.xib */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		28D7ACF80DDB3853001CB0EB /* FwixTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* FwixTestViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		130DADAA13970A510072DC60 /* fAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fAPI.h; path = ../../../Desktop/iOS_API_code/fAPI.h; sourceTree = SOURCE_ROOT; };
+		130DADAB13970A510072DC60 /* fAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = fAPI.m; path = ../../../Desktop/iOS_API_code/fAPI.m; sourceTree = SOURCE_ROOT; };
+		130DADAC13970A510072DC60 /* fAPIObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fAPIObject.h; path = ../../../Desktop/iOS_API_code/fAPIObject.h; sourceTree = SOURCE_ROOT; };
+		130DADAD13970A510072DC60 /* fCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fCategory.h; path = ../../../Desktop/iOS_API_code/fCategory.h; sourceTree = SOURCE_ROOT; };
+		130DADAE13970A510072DC60 /* fCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = fCategory.m; path = ../../../Desktop/iOS_API_code/fCategory.m; sourceTree = SOURCE_ROOT; };
+		130DADAF13970A510072DC60 /* fContent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fContent.h; path = ../../../Desktop/iOS_API_code/fContent.h; sourceTree = SOURCE_ROOT; };
+		130DADB013970A510072DC60 /* fContent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = fContent.m; path = ../../../Desktop/iOS_API_code/fContent.m; sourceTree = SOURCE_ROOT; };
+		130DADB113970A510072DC60 /* fLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fLocation.h; path = ../../../Desktop/iOS_API_code/fLocation.h; sourceTree = SOURCE_ROOT; };
+		130DADB213970A510072DC60 /* fLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = fLocation.m; path = ../../../Desktop/iOS_API_code/fLocation.m; sourceTree = SOURCE_ROOT; };
+		130DADB313970A510072DC60 /* fPlace.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fPlace.h; path = ../../../Desktop/iOS_API_code/fPlace.h; sourceTree = SOURCE_ROOT; };
+		130DADB413970A510072DC60 /* fPlace.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = fPlace.m; path = ../../../Desktop/iOS_API_code/fPlace.m; sourceTree = SOURCE_ROOT; };
+		130DADB513970A510072DC60 /* fRange.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = fRange.h; path = ../../../Desktop/iOS_API_code/fRange.h; sourceTree = SOURCE_ROOT; };
+		130DADB613970A510072DC60 /* fRange.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = fRange.m; path = ../../../Desktop/iOS_API_code/fRange.m; sourceTree = SOURCE_ROOT; };
+		130DADB713970A510072DC60 /* JSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JSON.h; path = ../../../Desktop/iOS_API_code/JSON.h; sourceTree = SOURCE_ROOT; };
+		130DADB813970A510072DC60 /* NSObject+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSObject+SBJSON.h"; path = "../../../Desktop/iOS_API_code/NSObject+SBJSON.h"; sourceTree = SOURCE_ROOT; };
+		130DADB913970A510072DC60 /* NSObject+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSObject+SBJSON.m"; path = "../../../Desktop/iOS_API_code/NSObject+SBJSON.m"; sourceTree = SOURCE_ROOT; };
+		130DADBA13970A510072DC60 /* NSString+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+SBJSON.h"; path = "../../../Desktop/iOS_API_code/NSString+SBJSON.h"; sourceTree = SOURCE_ROOT; };
+		130DADBB13970A510072DC60 /* NSString+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSString+SBJSON.m"; path = "../../../Desktop/iOS_API_code/NSString+SBJSON.m"; sourceTree = SOURCE_ROOT; };
+		130DADBC13970A510072DC60 /* SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJSON.h; path = ../../../Desktop/iOS_API_code/SBJSON.h; sourceTree = SOURCE_ROOT; };
+		130DADBD13970A510072DC60 /* SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJSON.m; path = ../../../Desktop/iOS_API_code/SBJSON.m; sourceTree = SOURCE_ROOT; };
+		130DADBE13970A510072DC60 /* SBJsonBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonBase.h; path = ../../../Desktop/iOS_API_code/SBJsonBase.h; sourceTree = SOURCE_ROOT; };
+		130DADBF13970A510072DC60 /* SBJsonBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonBase.m; path = ../../../Desktop/iOS_API_code/SBJsonBase.m; sourceTree = SOURCE_ROOT; };
+		130DADC013970A510072DC60 /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonParser.h; path = ../../../Desktop/iOS_API_code/SBJsonParser.h; sourceTree = SOURCE_ROOT; };
+		130DADC113970A510072DC60 /* SBJsonParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonParser.m; path = ../../../Desktop/iOS_API_code/SBJsonParser.m; sourceTree = SOURCE_ROOT; };
+		130DADC213970A510072DC60 /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonWriter.h; path = ../../../Desktop/iOS_API_code/SBJsonWriter.h; sourceTree = SOURCE_ROOT; };
+		130DADC313970A510072DC60 /* SBJsonWriter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBJsonWriter.m; path = ../../../Desktop/iOS_API_code/SBJsonWriter.m; sourceTree = SOURCE_ROOT; };
+		13FDEDD713981883004ABE97 /* TextFieldAndButtonView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TextFieldAndButtonView.xib; sourceTree = "<group>"; };
+		13FDEE271398553B004ABE97 /* Fwix.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fwix.png; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* FwixTestAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FwixTestAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* FwixTestAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FwixTestAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* FwixTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FwixTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* FwixTestViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FwixTestViewController.xib; sourceTree = "<group>"; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* FwixTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FwixTestViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* FwixTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FwixTestViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* FwixTest_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FwixTest_Prefix.pch; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* FwixTest-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FwixTest-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				130DADAA13970A510072DC60 /* fAPI.h */,
+				130DADAB13970A510072DC60 /* fAPI.m */,
+				130DADAC13970A510072DC60 /* fAPIObject.h */,
+				130DADAD13970A510072DC60 /* fCategory.h */,
+				130DADAE13970A510072DC60 /* fCategory.m */,
+				130DADAF13970A510072DC60 /* fContent.h */,
+				130DADB013970A510072DC60 /* fContent.m */,
+				130DADB113970A510072DC60 /* fLocation.h */,
+				130DADB213970A510072DC60 /* fLocation.m */,
+				130DADB313970A510072DC60 /* fPlace.h */,
+				130DADB413970A510072DC60 /* fPlace.m */,
+				130DADB513970A510072DC60 /* fRange.h */,
+				130DADB613970A510072DC60 /* fRange.m */,
+				130DADB713970A510072DC60 /* JSON.h */,
+				130DADB813970A510072DC60 /* NSObject+SBJSON.h */,
+				130DADB913970A510072DC60 /* NSObject+SBJSON.m */,
+				130DADBA13970A510072DC60 /* NSString+SBJSON.h */,
+				130DADBB13970A510072DC60 /* NSString+SBJSON.m */,
+				130DADBC13970A510072DC60 /* SBJSON.h */,
+				130DADBD13970A510072DC60 /* SBJSON.m */,
+				130DADBE13970A510072DC60 /* SBJsonBase.h */,
+				130DADBF13970A510072DC60 /* SBJsonBase.m */,
+				130DADC013970A510072DC60 /* SBJsonParser.h */,
+				130DADC113970A510072DC60 /* SBJsonParser.m */,
+				130DADC213970A510072DC60 /* SBJsonWriter.h */,
+				130DADC313970A510072DC60 /* SBJsonWriter.m */,
+				1D3623240D0F684500981E51 /* FwixTestAppDelegate.h */,
+				1D3623250D0F684500981E51 /* FwixTestAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* FwixTestViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* FwixTestViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* FwixTest.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* FwixTest_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				13FDEE271398553B004ABE97 /* Fwix.png */,
+				2899E5210DE3E06400AC0155 /* FwixTestViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* FwixTest-Info.plist */,
+				13FDEDD713981883004ABE97 /* TextFieldAndButtonView.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* FwixTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FwixTest" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FwixTest;
+			productName = FwixTest;
+			productReference = 1D6058910D05DD3D006BFB54 /* FwixTest.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FwixTest" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* FwixTest */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				2899E5220DE3E06400AC0155 /* FwixTestViewController.xib in Resources */,
+				13FDEDD813981883004ABE97 /* TextFieldAndButtonView.xib in Resources */,
+				13FDEE281398553B004ABE97 /* Fwix.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* FwixTestAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* FwixTestViewController.m in Sources */,
+				130DADC413970A510072DC60 /* fAPI.m in Sources */,
+				130DADC513970A510072DC60 /* fCategory.m in Sources */,
+				130DADC613970A510072DC60 /* fContent.m in Sources */,
+				130DADC713970A510072DC60 /* fLocation.m in Sources */,
+				130DADC813970A510072DC60 /* fPlace.m in Sources */,
+				130DADC913970A510072DC60 /* fRange.m in Sources */,
+				130DADCA13970A510072DC60 /* NSObject+SBJSON.m in Sources */,
+				130DADCB13970A510072DC60 /* NSString+SBJSON.m in Sources */,
+				130DADCC13970A510072DC60 /* SBJSON.m in Sources */,
+				130DADCD13970A510072DC60 /* SBJsonBase.m in Sources */,
+				130DADCE13970A510072DC60 /* SBJsonParser.m in Sources */,
+				130DADCF13970A510072DC60 /* SBJsonWriter.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FwixTest_Prefix.pch;
+				INFOPLIST_FILE = "FwixTest-Info.plist";
+				PRODUCT_NAME = FwixTest;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = FwixTest_Prefix.pch;
+				INFOPLIST_FILE = "FwixTest-Info.plist";
+				PRODUCT_NAME = FwixTest;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "FwixTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FwixTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

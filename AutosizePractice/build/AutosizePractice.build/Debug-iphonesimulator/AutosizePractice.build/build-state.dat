@@ -1,0 +1,256 @@
+TAutosizePractice
+v7
+r0
+t328831241.079475
+cCheck dependencies
+cProcessInfoPlistFile /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/Info.plist AutosizePractice-Info.plist
+cCompileXIB /Users/eliaswald/Documents/Xcode/AutosizePractice/MainWindow.xib
+cCompileXIB /Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePracticeViewController.xib
+cProcessPCH /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AutosizePractice_Prefix-cfeljnwznbzhysakhcoztqtmfcbn/AutosizePractice_Prefix.pch.gch AutosizePractice_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/main.o /Users/eliaswald/Documents/Xcode/AutosizePractice/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeAppDelegate.o /Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeViewController.o /Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice normal i386
+cGenerateDSYMFile /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app.dSYM /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice
+cTouch /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePracticeViewController.xib
+c000000004DE955CC0000000000006C02
+t1307137484
+s27650
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePractice_Prefix.pch
+c000000004DE9463100000000000000C9
+t1307133489
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeAppDelegate.h
+c000000004DE946310000000000000211
+t1307133489
+s529
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeAppDelegate.m
+c000000004DE946310000000000000ABE
+t1307133489
+s2750
+i"AutosizePracticeAppDelegate.h"
+i"AutosizePracticeViewController.h"
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeViewController.h
+c000000004DE9574300000000000002CD
+t1307137859
+s717
+i<UIKit/UIKit.h>
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeViewController.m
+c000000004DE959400000000000000ACE
+t1307138368
+s2766
+i"AutosizePracticeViewController.h"
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/MainWindow.xib
+c000000004DE946310000000000004E95
+t1307133489
+s20117
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePractice.LinkFileList
+c000000004DE9477800000000000001F6
+t1307133816
+s502
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeAppDelegate.o
+t1307138228
+s51588
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeViewController.o
+t1307138369
+s51568
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/main.o
+t1307133817
+s6324
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app
+t1307138369
+s238
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app.dSYM
+t1307138369
+s102
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice
+t1307138369
+s25100
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePracticeViewController.nib
+t1307137486
+s2098
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/Info.plist
+t1307133816
+s633
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/MainWindow.nib
+t1307133816
+s1141
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/PkgInfo
+t1307133816
+s8
+
+N/Users/eliaswald/Documents/Xcode/AutosizePractice/main.m
+c000000004DE94631000000000000016E
+t1307133489
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AutosizePractice_Prefix-cfeljnwznbzhysakhcoztqtmfcbn/AutosizePractice_Prefix.pch.gch
+t1307133817
+s15453392
+
+NAutosizePractice-Info.plist
+c000000004DE94631000000000000038D
+t1307133489
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328831241#328831241#0(0"0(0#1#0"8614303584#0"0#
+
+CCompileC build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeAppDelegate.o /Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328831028.129405
+e328831028.250354
+r1
+xCompileC
+xbuild/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeAppDelegate.o
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeAppDelegate.m328831028#328831028#0(0"0(0#0#87"/Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeAppDelegate.m8617389280#2269"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AutosizePractice_Prefix-cfeljnwznbzhysakhcoztqtmfcbn/AutosizePractice_Prefix.pch -c /Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeAppDelegate.m -o /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeAppDelegate.o0#
+
+CCompileC build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeViewController.o /Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328831169.776045
+e328831169.900302
+r1
+xCompileC
+xbuild/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeViewController.o
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeViewController.m328831169#328831169#0(0"0(0#0#90"/Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeViewController.m8617364416#2275"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AutosizePractice_Prefix-cfeljnwznbzhysakhcoztqtmfcbn/AutosizePractice_Prefix.pch -c /Users/eliaswald/Documents/Xcode/AutosizePractice/Classes/AutosizePracticeViewController.m -o /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePracticeViewController.o0#
+
+CCompileC build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/main.o /Users/eliaswald/Documents/Xcode/AutosizePractice/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328826617.276422
+e328826617.342556
+r1
+xCompileC
+xbuild/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/main.o
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/eliaswald/Documents/Xcode/AutosizePractice/main.m328826617#328826617#0(0"0(0#0#56"/Users/eliaswald/Documents/Xcode/AutosizePractice/main.m8614604000#2215"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/DerivedSources -include /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AutosizePractice_Prefix-cfeljnwznbzhysakhcoztqtmfcbn/AutosizePractice_Prefix.pch -c /Users/eliaswald/Documents/Xcode/AutosizePractice/main.m -o /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePracticeViewController.xib
+s328830286.490601
+e328830286.917434
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePracticeViewController.xib
+lSLF07#2@45"CompileXIB AutosizePracticeViewController.xib328830286#328830286#0(0"0(0#0#84"/Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePracticeViewController.xib8615935264#652"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePracticeViewController.nib /Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePracticeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/eliaswald/Documents/Xcode/AutosizePractice/MainWindow.xib
+s328826616.103664
+e328826616.480473
+r1
+xCompileXIB
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328826616#328826616#0(0"0(0#0#64"/Users/eliaswald/Documents/Xcode/AutosizePractice/MainWindow.xib8613995552#612"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/MainWindow.nib /Users/eliaswald/Documents/Xcode/AutosizePractice/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app.dSYM /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice
+s328831169.923247
+e328831169.938688
+r1
+xGenerateDSYMFile
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app.dSYM
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/AutosizePractice.app.dSYM build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice328831169#328831169#0(0"0(0#0#115"/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice8617934368#443"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice -o /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app.dSYM0#
+
+CLd /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice normal i386
+s328831169.900408
+e328831169.923136
+r1
+xLd
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice
+xnormal
+xi386
+lSLF07#2@120"Link /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice328831169#328831169#0(0"0(0#0#0"8618224864#1000"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator -F/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator -filelist /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/Objects-normal/i386/AutosizePractice.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/AutosizePractice0#
+
+CProcessInfoPlistFile /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/Info.plist AutosizePractice-Info.plist
+s328826616.096355
+e328826616.103542
+r1
+xProcessInfoPlistFile
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/Info.plist
+xAutosizePractice-Info.plist
+lSLF07#2@35"Process AutosizePractice-Info.plist328826616#328826616#0(0"0(0#0#77"/Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePractice-Info.plist12948282726875240#539"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AutosizePractice-Info.plist -genpkginfo /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app/Info.plist0#
+
+CProcessPCH /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AutosizePractice_Prefix-cfeljnwznbzhysakhcoztqtmfcbn/AutosizePractice_Prefix.pch.gch AutosizePractice_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328826616.551598
+e328826617.276204
+r1
+xProcessPCH
+x/var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AutosizePractice_Prefix-cfeljnwznbzhysakhcoztqtmfcbn/AutosizePractice_Prefix.pch.gch
+xAutosizePractice_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile AutosizePractice_Prefix.pch328826616#328826617#0(0"0(0#0#77"/Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePractice_Prefix.pch8614346848#2087"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-generated-files.hmap -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-own-target-headers.hmap -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-all-target-headers.hmap -iquote /Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/AutosizePractice-project-headers.hmap -F/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/include -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/DerivedSources/i386 -I/Users/eliaswald/Documents/Xcode/AutosizePractice/build/AutosizePractice.build/Debug-iphonesimulator/AutosizePractice.build/DerivedSources -c /Users/eliaswald/Documents/Xcode/AutosizePractice/AutosizePractice_Prefix.pch -o /var/folders/79/79Tu8mj2FG0tYIi0WueUQU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/AutosizePractice_Prefix-cfeljnwznbzhysakhcoztqtmfcbn/AutosizePractice_Prefix.pch.gch0#
+
+CTouch /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app
+s328831169.938780
+e328831169.941078
+r1
+xTouch
+x/Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app
+lSLF07#2@104"Touch /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app328831169#328831169#0(0"0(0#0#0"8617756480#309"    cd /Users/eliaswald/Documents/Xcode/AutosizePractice    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/eliaswald/Documents/Xcode/AutosizePractice/build/Debug-iphonesimulator/AutosizePractice.app0#
+
